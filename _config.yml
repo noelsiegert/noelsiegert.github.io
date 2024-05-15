@@ -63,7 +63,6 @@ author:
   name   : "Noel Siegert"
   avatar : "/assets/images/pic4website1.jpg"
   bio    : "Columbia University & Lamont-Doherty Earth Observatory"
-  location: "New York, NY"
   links:
      - label: "ORCID"
        icon: "fa-brands fa-orcid"
@@ -80,6 +79,7 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
+  location: "New York, NY"
 
 footer:
 #  links:
