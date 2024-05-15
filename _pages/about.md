@@ -4,7 +4,7 @@ title: "About"
 header:
 header:
   overlay_image: /assets/images/pic4website2.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  image_description: "A view of the downtown Manhattan skyline"
 ---
 
 Welcome to my website. I am currently a PhD student at Columbia University studying climate hazards, impacts, and adaptation.

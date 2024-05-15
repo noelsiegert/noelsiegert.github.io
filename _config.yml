@@ -32,6 +32,8 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+atom_feed:
+  hide: true
 
 include:
   - _pages
@@ -61,6 +63,7 @@ author:
   name   : "Noel Siegert"
   avatar : "/assets/images/pic4website1.jpg"
   bio    : "Columbia University & Lamont-Doherty Earth Observatory"
+  location: "New York, NY"
   links:
      - label: "ORCID"
        icon: "fa-brands fa-orcid"
