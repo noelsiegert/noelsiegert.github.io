@@ -3,4 +3,4 @@ permalink: /research/
 title: "Research"
 ---
 
-Coming soon.
+Info coming soon.
