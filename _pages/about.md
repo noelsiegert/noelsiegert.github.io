@@ -7,6 +7,6 @@ header:
   image_description: "A view of the downtown Manhattan skyline"
 ---
 
-Welcome to my website. I am currently a PhD student at Columbia University studying climate hazards, impacts, and adaptation.
+I am currently a PhD student at Columbia University studying climate hazards, impacts, and adaptation.
 
 *5/15/24*
