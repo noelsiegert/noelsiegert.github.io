@@ -5,7 +5,7 @@ title: About
 
 # Noel Siegert
 
-<img src="/assets/pic_for_website.jpg" alt="picture of Noel Siegert" width="300">
+<img src="/assets/pic_for_website.jpg" alt="picture of Noel Siegert" width="200">
 
 I am a PhD candidate at Columbia University in the Department of Earth and Environmental Sciences. 
 
