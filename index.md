@@ -3,8 +3,12 @@ layout: default
 title: About
 ---
 
-# Your Name
+# Noel Siegert
 
-Write a short introduction here: who you are, what you do, and what you're interested in.
+I am a PhD candidate at Columbia University in the Department of Earth and Environmental Sciences. 
 
-You can add more paragraphs, links, or a photo below. bla bla bla
+My current research focuses on the geophysical drivers and human impacts of humid heat stress, particularly in coastal areas. 
+
+I am also very interested in better understanding climate change...
+
+Please free to contact me at: nsiegert@ldeo.columbia.edu
