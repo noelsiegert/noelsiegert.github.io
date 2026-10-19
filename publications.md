@@ -8,7 +8,7 @@ permalink: /publications/
 
 ORCID: https://orcid.org/0000-0001-5121-3514
 
-Please send me an email if you are unable to access any of these papers. 
+Please email me if you are unable to access any of these papers. 
 
 ---
 
