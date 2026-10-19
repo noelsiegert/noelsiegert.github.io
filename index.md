@@ -9,7 +9,7 @@ title: About
 
 I am a PhD candidate at Columbia University in the Department of Earth and Environmental Sciences. 
 
-My current research focuses on the drivers and human impacts of humid heat stress, particularly in coastal areas. 
+My current research focuses on the physical drivers and human impacts of humid heat stress, particularly in coastal areas. 
 
 I am also very interested in better understanding climate change risks, compound and systemic risks, climate impact attribution, and how we can use climate data to make adaptation decisions.
 
