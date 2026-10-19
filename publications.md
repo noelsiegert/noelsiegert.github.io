@@ -7,6 +7,7 @@ permalink: /publications/
 # Publications
 
 ORCID: https://orcid.org/0000-0001-5121-3514
+
 Please send me an email if you are unable to access any of these papers. 
 
 ---
@@ -14,7 +15,7 @@ Please send me an email if you are unable to access any of these papers.
 **N. Siegert,** R. M. Horton, Positive Association Between Coastal Sea Surface
 Temperatures and Humid Heat Stress on Nearby Land. Geophysical Research
 Letters 53, e2026GL122646 (2026). 
-[https://doi.org/10.1029/2026GL12264610/16/26](https://doi.org/10.1029/2026GL12264610/16/26)
+[https://doi.org/10.1029/2026GL122646](https://doi.org/10.1029/2026GL122646)
 
 J. S. Mankin, **N. Siegert,** J. E. Smerdon, B. I. Cook, R. Seager, A. P. Williams,
 C. S. Lesk, Z. Li, H. Singh, E. D. Martinez, Nonlinear carbon feedbacks in CMIP6
