@@ -14,5 +14,3 @@ My current research focuses on the physical drivers and human impacts of humid h
 I am also very interested in better understanding climate change risks, compound and systemic risks, climate impact attribution, and how we can use climate data to make adaptation decisions.
 
 If you would like to discuss any/all of these topics, feel free to contact me at: [nvs2125@columbia.edu](mailto:nvs2125@columbia.edu)
-
-Also please find my CV on the next page.
