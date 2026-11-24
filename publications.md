@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Publications
 
-ORCID: https://orcid.org/0000-0001-5121-3514
+ORCID: [https://orcid.org/0000-0001-5121-3514](https://orcid.org/0000-0001-5121-3514)
 
 Please email me if you are unable to access any of these papers. 
 
